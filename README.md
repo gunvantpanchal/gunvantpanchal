@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/gunvantpanchal/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/gunvantpancha_">
+  <a href="https://www.instagram.com/gunvantpanchal_/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
@@ -43,7 +43,11 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/React-Js?logo=reactjs&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/react%20table-FF4154?style=for-the-badge&logo=react%20table&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+
 
 - 👨‍💻 **Full-Stack Developer**\
 📆 2022 - moment\
