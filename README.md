@@ -28,15 +28,9 @@
 </p>
 
 
-<details>
-  <summary>📃 Resume</summary>
 
 
-## Education
 
-- 📖 **Bachelor of Engineering - EC**\
-📆 2018 - 2022\
-📍 **Government Engineering College** - Gandhinagar, Gujarat
 
 ## Experience
 
@@ -54,5 +48,5 @@
 
 
 
-</details>
+
 
