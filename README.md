@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  React Js and Node Js Developer from India.
+  Full-stack Js Developer from India.
 </p>
 
 
