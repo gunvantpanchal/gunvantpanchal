@@ -24,7 +24,7 @@
 
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:gunvantpanchal2001.com'>gunvantpanchal2001.com</a>
+  📫 How to reach me: <a href='mailto:gunvantpanchal2001@gmail.com'>gunvantpanchal2001@gmail.com</a>
 </p>
 
 
@@ -33,8 +33,6 @@
 
 
 ## 
-
-<img align="right" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
